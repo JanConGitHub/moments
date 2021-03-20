@@ -1,0 +1,279 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the moments.fulvio package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: ../qml/AddNewMomentPageTablet.qml:37 ../qml/AddNewMomentPageTablet.qml:42
+#: ../qml/AddNewMomentPagePhone.qml:37 ../qml/AddNewMomentPagePhone.qml:42
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: moments.fulvio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-25 15:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/dialog/RemoveImageDialog.qml:19
+msgid "Remove the Image"
+msgstr "Fjern bildet"
+
+#: ../qml/dialog/RemoveImageDialog.qml:40
+#: ../qml/dialog/OperationResultDialog.qml:38
+#: ../qml/dialog/MomentDeleteDialog.qml:45
+#: ../qml/dialog/DataBaseEraserDialog.qml:36
+#: ../qml/dialog/AboutProductDialog.qml:16
+msgid "Close"
+msgstr "Lukk"
+
+#: ../qml/dialog/RemoveImageDialog.qml:46 ../qml/ShowImagesPageTablet.qml:126
+#: ../qml/ShowImagesPagePhone.qml:127
+msgid "Remove"
+msgstr "Fjern"
+
+#: ../qml/dialog/RemoveImageDialog.qml:54
+msgid "Image successfully removed"
+msgstr "Bildet ble fjernet"
+
+#: ../qml/dialog/OperationResultDialog.qml:22
+msgid "Operation Result"
+msgstr "Driftsresultat"
+
+#: ../qml/dialog/ImageZoomDialog.qml:16
+msgid "Image"
+msgstr "Bilde"
+
+#: ../qml/dialog/ImageZoomDialog.qml:16
+msgid "tap to close"
+msgstr "trykk for å lukke"
+
+#: ../qml/dialog/MomentDeleteDialog.qml:23
+msgid "Remove the Moment"
+msgstr "Fjern albumet"
+
+#: ../qml/dialog/MomentDeleteDialog.qml:23
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "(there is no restore)"
+msgstr "(det er ingen gjenoppretting)"
+
+#: ../qml/dialog/MomentDeleteDialog.qml:59
+#: ../qml/dialog/DataBaseEraserDialog.qml:43 ../qml/EditMomentPagePhone.qml:55
+#: ../qml/MomentsListPage.qml:72 ../qml/EditMomentPageTablet.qml:57
+msgid "Delete"
+msgstr "Slett"
+
+#: ../qml/dialog/MomentDeleteDialog.qml:72
+msgid "Succesfully removed Moment"
+msgstr "Album ble slettet"
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:14
+msgid "Remove ALL saved Moments"
+msgstr "Fjern ALLE lagrede album"
+
+#: ../qml/dialog/DataBaseEraserDialog.qml:55
+msgid "Succesfully Removed ALL moments data"
+msgstr "ALLE albumdata ble fjernet"
+
+#: ../qml/dialog/AboutProductDialog.qml:12
+msgid "Product Info"
+msgstr "Produktinfo"
+
+#: ../qml/dialog/AboutProductDialog.qml:13
+msgid "version"
+msgstr "versjon"
+
+#: ../qml/dialog/AboutProductDialog.qml:13
+msgid "Author"
+msgstr "Forfatter"
+
+#: ../qml/dialog/AboutProductDialog.qml:14
+msgid "Credits: Mario Guerriero for the base idea"
+msgstr "Heder: Mario Guerriero for grunnideen"
+
+#: ../qml/HelpPage.qml:15
+msgid "Help Page"
+msgstr "Hjelpeside"
+
+#: ../qml/HelpPage.qml:47
+msgid ""
+"With Moments you can group your pictures, images by Moments, periods of your "
+"life"
+msgstr ""
+"Med BildeAlbum kan du gruppere bildene dine, bilder etter album, perioder av ditt "
+"liv"
+
+#: ../qml/HelpPage.qml:48
+msgid "(Example: marriage, holidays, party)."
+msgstr "(Eksempel: Ekteskap, høytid, fest)."
+
+#: ../qml/HelpPage.qml:49
+msgid ""
+"Note: the images imported must be placed on the local device, not on remote "
+"sources"
+msgstr ""
+"Merk: Bildene som importeres må plasseres på den lokale enheten, ikke på "
+"eksterne kilder"
+
+#: ../qml/HelpPage.qml:50
+msgid ""
+"When an image is deleted, is removed the one managed by Moments App, NOT "
+"other copy in the device filesystem (if any)"
+msgstr ""
+"Når et bilde slettes, fjernes det som administreres av BildeAlbum appen, IKKE "
+"annen kopi i enhetens filsystem (hvis noen)"
+
+#: ../qml/ImportImagesPage.qml:24
+msgid "Add images"
+msgstr "Legg til bilder"
+
+#: ../qml/AddNewMomentPageTablet.qml:27 ../qml/AddNewMomentPagePhone.qml:27
+msgid "Add new moment"
+msgstr "Legg til bildealbum"
+
+#: ../qml/AddNewMomentPageTablet.qml:37 ../qml/AddNewMomentPagePhone.qml:37
+msgid "Invalid Title (empty or invalid characters)"
+msgstr "Ugyldig tittel (tomme eller ugyldige tegn)"
+
+
+#: ../qml/AddNewMomentPageTablet.qml:42 ../qml/AddNewMomentPagePhone.qml:42
+msgid "Moment title existing, please change it"
+msgstr "Bildealbumtittel eksisterer, vennligst endre den"
+
+#: ../qml/AddNewMomentPageTablet.qml:47 ../qml/EditMomentPagePhone.qml:66
+#: ../qml/AddNewMomentPagePhone.qml:47 ../qml/EditMomentPageTablet.qml:68
+msgid "FAILURE"
+msgstr "FEILET"
+
+#: ../qml/AddNewMomentPageTablet.qml:47 ../qml/AddNewMomentPagePhone.qml:47
+msgid "Error adding new Moment"
+msgstr "Feil ved opprettelse av nytt bildealbum"
+
+#: ../qml/AddNewMomentPageTablet.qml:52 ../qml/EditMomentPagePhone.qml:71
+#: ../qml/AddNewMomentPagePhone.qml:52 ../qml/EditMomentPageTablet.qml:73
+msgid "SUCCESS"
+msgstr "VELLYKKET"
+
+#: ../qml/AddNewMomentPageTablet.qml:52 ../qml/AddNewMomentPagePhone.qml:52
+msgid "Moment added successfully"
+msgstr "Bildealbum lagt til"
+
+#: ../qml/AddNewMomentPageTablet.qml:87 ../qml/EditMomentPagePhone.qml:106
+#: ../qml/AddNewMomentPagePhone.qml:87 ../qml/EditMomentPageTablet.qml:108
+msgid "Title"
+msgstr "Tittel"
+
+#: ../qml/AddNewMomentPageTablet.qml:108 ../qml/EditMomentPagePhone.qml:126
+#: ../qml/AddNewMomentPagePhone.qml:108 ../qml/EditMomentPageTablet.qml:128
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: ../qml/AddNewMomentPageTablet.qml:128 ../qml/EditMomentPagePhone.qml:147
+#: ../qml/MomentsListDelegate.qml:62 ../qml/AddNewMomentPagePhone.qml:128
+#: ../qml/EditMomentPageTablet.qml:149
+msgid "Location"
+msgstr "Sted"
+
+#: ../qml/AddNewMomentPageTablet.qml:170 ../qml/EditMomentPagePhone.qml:188
+#: ../qml/MomentsListDelegate.qml:67 ../qml/AddNewMomentPagePhone.qml:170
+#: ../qml/EditMomentPageTablet.qml:190
+msgid "Date"
+msgstr "Dato"
+
+#: ../qml/AddNewMomentPageTablet.qml:191 ../qml/EditMomentPagePhone.qml:210
+#: ../qml/AddNewMomentPagePhone.qml:191 ../qml/EditMomentPageTablet.qml:212
+msgid "Photos"
+msgstr "Fotografier"
+
+#: ../qml/AddNewMomentPageTablet.qml:196 ../qml/AddNewMomentPagePhone.qml:196
+msgid "Choose"
+msgstr "Velg"
+
+#: ../qml/AddNewMomentPageTablet.qml:226 ../qml/AddNewMomentPagePhone.qml:225
+msgid "Tag"
+msgstr "Tagg"
+
+#: ../qml/AddNewMomentPageTablet.qml:232 ../qml/EditMomentPagePhone.qml:239
+#: ../qml/AddNewMomentPagePhone.qml:231
+msgid "comma or space separated list"
+msgstr "comma eller separert liste"
+
+#: ../qml/AddNewMomentPageTablet.qml:246 ../qml/ImageNamesListPage.qml:48
+#: ../qml/MomentsListPage.qml:56 ../qml/AddNewMomentPagePhone.qml:245
+msgid "Add"
+msgstr "Legg til"
+
+#: ../qml/AddNewMomentPageTablet.qml:274 ../qml/EditMomentPagePhone.qml:271
+#: ../qml/AddNewMomentPagePhone.qml:273 ../qml/EditMomentPageTablet.qml:273
+msgid "Field required"
+msgstr "Felt kreves"
+
+#: ../qml/EditMomentPagePhone.qml:66 ../qml/EditMomentPageTablet.qml:68
+msgid "Error editing Moment"
+msgstr "Feil ved redigering av bildealbum"
+
+#: ../qml/EditMomentPagePhone.qml:71 ../qml/EditMomentPageTablet.qml:73
+msgid "Moment edited successfully"
+msgstr "Bildealbum redigert"
+
+#: ../qml/EditMomentPagePhone.qml:215 ../qml/EditMomentPageTablet.qml:217
+msgid "Edit"
+msgstr "Rediger"
+
+#: ../qml/EditMomentPagePhone.qml:233 ../qml/EditMomentPageTablet.qml:235
+msgid "Tags"
+msgstr "Tagger"
+
+#: ../qml/EditMomentPagePhone.qml:252 ../qml/EditMomentPageTablet.qml:254
+msgid "Update"
+msgstr "Oppdater"
+
+#: ../qml/ShowImagesPageTablet.qml:34 ../qml/ImageNamesListPage.qml:43
+#: ../qml/ShowImagesPagePhone.qml:33
+msgid "Images found"
+msgstr "Bilder funnet"
+
+#: ../qml/ShowImagesPageTablet.qml:115 ../qml/ShowImagesPagePhone.qml:116
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../qml/MomentsListPage.qml:29
+msgid "Moments"
+msgstr "BildeAlbum"
+
+#: ../qml/MomentsListPage.qml:36
+msgid "About"
+msgstr "Om"
+
+#: ../qml/MomentsListPage.qml:45
+msgid "Help"
+msgstr "Hjelp"
+
+#: ../qml/MomentsListPage.qml:138
+msgid "moment to search"
+msgstr "bildealbum å søke etter"
+
+#: ../qml/MomentsListPage.qml:143 ../qml/MomentsListPage.qml:158
+#: ../qml/MomentsListPage.qml:167
+msgid "Total moments found"
+msgstr "Totalt antall bildealbum funnet"
+
+#: ../qml/MomentsListPage.qml:152
+msgid "Filter"
+msgstr "Filtrer"
+
+#: ../qml/MomentsListPage.qml:158
+msgid "(filtered)"
+msgstr "(filtrert)"
+
+#: ../qml/EditMomentPageTablet.qml:241
+msgid "comma separated list"
+msgstr "kommaseparertliste"
+
+#: moments.desktop.in.h:1
+msgid "moments"
+msgstr "BildeAlbum"
